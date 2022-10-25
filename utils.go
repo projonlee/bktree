@@ -1,14 +1,6 @@
 package bkdtree
 
-import (
-	// "encoding/json"
-	// "os"
-	// "path/filepath"
-	// "regexp"
-	// "sort"
-	// "syscall"
-	// "github.com/pkg/errors"
-)
+import "os"
 
 //FileMmap mmaps the given file.
 //https://medium.com/@arpith/adventures-with-mmap-463b33405223
