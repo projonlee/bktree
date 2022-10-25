@@ -7,7 +7,6 @@ import (
 	"regexp"
 	"sort"
 	"syscall"
-
 	"github.com/pkg/errors"
 )
 
