@@ -1,13 +1,13 @@
 package bkdtree
 
 import (
-	"encoding/json"
-	"os"
-	"path/filepath"
-	"regexp"
-	"sort"
-	"syscall"
-	"github.com/pkg/errors"
+	// "encoding/json"
+	// "os"
+	// "path/filepath"
+	// "regexp"
+	// "sort"
+	// "syscall"
+	// "github.com/pkg/errors"
 )
 
 //FileMmap mmaps the given file.
